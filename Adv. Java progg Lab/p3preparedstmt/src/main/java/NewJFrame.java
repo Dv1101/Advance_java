@@ -127,7 +127,7 @@ public class NewJFrame extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        // TODO add your handling code here:
+]        // TODO add your handling code here:
         try {
                 int a = Integer.parseInt(jTextField1.getText());
                 String n = jTextField2.getText();
