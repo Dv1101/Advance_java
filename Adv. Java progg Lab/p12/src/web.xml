@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+<web-app>  
+  
+<servlet>  
+<servlet-name>Register</servlet-name>  
+<servlet-class>Register</servlet-class>  
+</servlet>  
+  
+<servlet-mapping>  
+<servlet-name>Register</servlet-name>  
+<url-pattern>/servlet/Register</url-pattern>  
+</servlet-mapping>  
+  
+<welcome-file-list>  
+    <welcome-file>register.html</welcome-file>  
+</welcome-file-list>  
+  
+</web-app>  
+
+
+<root>
+    
+</root>
+
